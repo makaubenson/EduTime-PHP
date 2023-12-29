@@ -1,0 +1,152 @@
+"Unit ID","Unit Name","Lecturer ID","Lecturer Name",Semester,"Course Name","Course Group"
+"ABA 424","Entrepreneurship and Small Business Management",PF60,"Thomas Ojijo",Y4S2,CIT,YR_2022_2023
+"ABS 424","Entrepreneurship and Small Business Management",PF60,"Thomas Ojijo",Y4S2,CIS,YR_2022_2023
+"CCS 102","Linear Algebra",PF24,"Dickson Omingo",Y1S2,CCS,YR_2022_2023
+"CCS 104","Object Oriented Programming",PF29,"James Obuhuma",Y1S2,CCS,YR_2022_2023
+"CCS 106","Discrete Structures II",PF28,"Michael Ondeja",Y1S2,CCS,YR_2022_2023
+"CCS 108","Digital Electronics 1",PF22,"Henry Okoyo",Y1S2,CCS,YR_2022_2023
+"CCS 110","Introduction to Internet Technologies",PF28,"Michael Ondeja",Y1S2,CCS,YR_2022_2023
+"CCS 112","Databases Systems",PF28,"Michael Ondeja",Y1S2,CCS,YR_2022_2023
+"CCS 114","Introduction to Spreadsheets",PF28,"Michael Ondeja",Y1S2,CCS,YR_2022_2023
+"CCS 122",Electronics,PF24,"Dickson Omingo",Y1S2,CCS,YR_2022_2023
+"CCS 202","Computer Organization and architecture",PF25,"Vivian Oloo",Y2S2,CCS,YR_2022_2023
+"CCS 204","Assembly Language Programming",PF23,"Solomon Nyabundi",Y2S2,CCS,YR_2022_2023
+"CCS 206","Application Development for the Internet",PF29,"James Obuhuma",Y2S2,CCS,YR_2022_2023
+"CCS 208","Data Communications",PF23,"Solomon Nyabundi",Y2S2,CCS,YR_2022_2023
+"CCS 210","Automata Theory",PF20,"Lilian Wanzare",Y2S2,CCS,YR_2022_2023
+"CCS 212","Web Design and Publishing",PF30,"M O Adongo",Y2S2,CCS,YR_2022_2023
+"CCS 214","Group Project",PF27,"John Alwala",Y2S2,CCS,YR_2022_2023
+"CCS 216","Visual Basic Programming",PF20,"Lilian Wanzare",Y2S2,CCS,YR_2022_2023
+"CCS 302","Human Computer Interaction",PF30,"M O Adongo",Y3S2,CCS,YR_2022_2023
+"CCS 304","Project II ",PF30,"M O Adongo",Y3S2,CCS,YR_2022_2023
+"CCS 306","Software Engineering",PF06,"Calvins Otieno",Y3S2,CCS,YR_2022_2023
+"CCS 308","Research Methods and Technical Writing",PF21,"Sylvester McOyowo",Y3S2,CCS,YR_2022_2023
+"CCS 310","Computer Graphics",PF22,"Henry Okoyo",Y3S2,CCS,YR_2022_2023
+"CCS 312","Mobile Computing",PF27,"John Alwala",Y3S2,CCS,YR_2022_2023
+"CCS 314","Computer Networks Lab II (CISCO II)",PF27,"John Alwala",Y3S2,CCS,YR_2022_2023
+"CCS 316","Network Administration",PF27,"John Alwala",Y3S2,CCS,YR_2022_2023
+"CCS 318","Introduction to Expert Systems",PF06,"Calvins Otieno",Y3S2,CCS,YR_2022_2023
+"CCS 404","Social Legal and ethical issues in Computing",PF25,"Vivian Oloo",Y4S2,CCS,YR_2022_2023
+"CCS 406","Computer Science Project II",PF25,"Vivian Oloo",Y4S2,CCS,YR_2022_2023
+"CCS 408","Computer Networks Lab IV (CISCO IV)",PF25,"Vivian Oloo",Y4S2,CCS,YR_2022_2023
+"CCS 412","Natural Language Processing",PF20,"Lilian Wanzare",Y4S2,CCS,YR_2022_2023
+"CCS 414","Pattern Recognition",PF26,"John Konyino",Y4S2,CCS,YR_2022_2023
+"CCS 416","Information Retrival",PF29,"James Obuhuma",Y4S2,CCS,YR_2022_2023
+"CCS 418","Advanced Database Systems",PF06,"Calvins Otieno",Y4S2,CCS,YR_2022_2023
+"CCS 422","Advanced Compiler Construction and Design",PF22,"Henry Okoyo",Y4S2,CCS,YR_2022_2023
+"CCT 102","Engineering Mathematics II",PF28,"Michael Ondeja",Y1S2,CCT,YR_2022_2023
+"CCT 104","Object Oriented programming in Java ",PF29,"James Obuhuma",Y1S2,CCT,YR_2022_2023
+"CCT 106","Discrete Structures II",PF28,"Michael Ondeja",Y1S2,CCT,YR_2022_2023
+"CCT 108","Digital Logic Circuits",PF22,"Henry Okoyo",Y1S2,CCT,YR_2022_2023
+"CCT 110","Digital Logic Circuits Lab",PF25,"Vivian Oloo",Y1S2,CCT,YR_2022_2023
+"CCT 112","Electronics II",PF26,"John Konyino",Y1S2,CCT,YR_2022_2023
+"CCT 114","Electric Circuits II",PF25,"Vivian Oloo",Y1S2,CCT,YR_2022_2023
+"CCT 116","Digital Electronics I",PF26,"John Konyino",Y1S2,CCT,YR_2022_2023
+"CCT 118","Digital Electronics I LAB",PF24,"Dickson Omingo",Y1S2,CCT,YR_2022_2023
+"CCT 202","Digital Electronics II",PF24,"Dickson Omingo",Y2S2,CCT,YR_2022_2023
+"CCT 206","Circuits and Systems",PF23,"Solomon Nyabundi",Y2S2,CCT,YR_2022_2023
+"CCT 210","Data Communications",PF23,"Solomon Nyabundi",Y2S2,CCT,YR_2022_2023
+"CCT 212","Automata Theory",PF20,"Lilian Wanzare",Y2S2,CCT,YR_2022_2023
+"CCT 214","Signals and Systems",PF26,"John Konyino",Y2S2,CCT,YR_2022_2023
+"CCT 215","Applied Electromagnetics",PF23,"Solomon Nyabundi",Y2S2,CCT,YR_2022_2023
+"CCT 216","Applied probability and Statistics",PF20,"Lilian Wanzare",Y2S2,CCT,YR_2022_2023
+"CCT 302","Computer Architecture II",PF22,"Henry Okoyo",Y3S2,CCT,YR_2022_2023
+"CCT 304","Human Computer Interaction",PF30,"M O Adongo",Y3S2,CCT,YR_2022_2023
+"CCT 306","Mobile Computing",PF27,"John Alwala",Y3S2,CCT,YR_2022_2023
+"CCT 308","Software Engineering",PF06,"Calvins Otieno",Y3S2,CCT,YR_2022_2023
+"CCT 312","Embedded Computing Systems I",PF29,"James Obuhuma",Y3S2,CCT,YR_2022_2023
+"CCT 316","Digital Communications Systems",PF21,"Sylvester McOyowo",Y3S2,CCT,YR_2022_2023
+"CCT 318","Optical Devices and Systems",PF24,"Dickson Omingo",Y3S2,CCT,YR_2022_2023
+"CCT 320","Group Project II",PF06,"Calvins Otieno",Y3S2,CCT,YR_2022_2023
+"CCT 322","Computer Networks Lab II (Cisco II)",PF27,"John Alwala",Y3S2,CCT,YR_2022_2023
+"CCT 402","Computer-Aided Analysis and Design",PF22,"Henry Okoyo",Y4S2,CCT,YR_2022_2023
+"CCT 406","Computer Technology Project II",PF30,"M O Adongo",Y4S2,CCT,YR_2022_2023
+"CCT 412","Computer Systems Engineering II",PF21,"Sylvester McOyowo",Y4S2,CCT,YR_2022_2023
+"CCT 418","Natural Language Processing",PF20,"Lilian Wanzare",Y4S2,CCT,YR_2022_2023
+"CCT 420","Pattern Recognition",PF26,"John Konyino",Y4S2,CCT,YR_2022_2023
+"CIM 104","Object Oriented Programming I",PF16,"Michael Wambwere",Y1S2,CIM,YR_2022_2023
+"CIM 106","Database Systems",PF19,"Rose Kapukha",Y1S2,CIM,YR_2022_2023
+"CIM 108","System Analysis and Design",PF18,"Yvonne Mwajuma",Y1S2,CIM,YR_2022_2023
+"CIM 118","Computer Communication Theory",PF01," Titus Muhambe",Y1S2,CIM,YR_2022_2023
+"CIM 120"," Computer Organization and Architecture",PF08,"George Omuono",Y1S2,CIM,YR_2022_2023
+"CIM 202","Operations Management",PF08,"George Omuono",Y2S2,CIM,YR_2022_2023
+"CIM 204","Customer Care",PF60,"Thomas Ojijo",Y2S2,CIM,YR_2022_2023
+"CIM 206","Messaging and Communication",PF15,"Bethuel Okelo",Y2S2,CIM,YR_2022_2023
+"CIM 208","Work Flow Applications",PF15,"Bethuel Okelo",Y2S2,CIM,YR_2022_2023
+"CIM 210","Office Applications Programming",PF17,"Moses Wainaina",Y2S2,CIM,YR_2022_2023
+"CIM 212","Security in Applications",PF16,"Michael Wambwere",Y2S2,CIM,YR_2022_2023
+"CIM 214","Structured Programming Models",PF17,"Moses Wainaina",Y2S2,CIM,YR_2022_2023
+"CIM 216","ICT Consultancy Project",PF01," Titus Muhambe",Y2S2,CIM,YR_2022_2023
+"CIM 302","IT Service Support and Delivery",PF18,"Yvonne Mwajuma",Y3S2,CIM,YR_2022_2023
+"CIM 304","Unix Fundamentals",PF12,"Gabriel Oliko",Y3S2,CIM,YR_2022_2023
+"CIM 306","Group Project 2",PF08,"George Omuono",Y3S2,CIM,YR_2022_2023
+"CIM 308","Mobile Computing",PF04,"Isaac Owino",Y3S2,CIM,YR_2022_2023
+"CIM 312","Project (Programming)",PF02,"Violet Settim",Y3S2,CIM,YR_2022_2023
+"CIM 316","System Administration II",PF12,"Gabriel Oliko",Y3S2,CIM,YR_2022_2023
+"CIM 320","Object Oriented Systems Analysis & Design",PF18,"Yvonne Mwajuma",Y3S2,CIM,YR_2022_2023
+"CIM 322","Internet Based Programming",PF07,"David Saka",Y3S2,CIM,YR_2022_2023
+"CIM 402","IT Project Management",PF17,"Moses Wainaina",Y4S2,CIM,YR_2022_2023
+"CIM 404","Security Policies",PF16,"Michael Wambwere",Y4S2,CIM,YR_2022_2023
+"CIM 406","Change Management",PF60,"Thomas Ojijo",Y4S2,CIM,YR_2022_2023
+"CIM 408","Information Systems Audits",PF16,"Michael Wambwere",Y4S2,CIM,YR_2022_2023
+"CIM 410","Managing the IT Investment",PF18,"Yvonne Mwajuma",Y4S2,CIM,YR_2022_2023
+"CIM 412",Entrepreneurship,PF60,"Thomas Ojijo",Y4S2,CIM,YR_2022_2023
+"CIM 416","Emerging Database Technologies & Applications",PF19,"Rose Kapukha",Y4S2,CIM,YR_2022_2023
+"CIM 418","Software Implementation Techniques",PF02,"Violet Settim",Y4S2,CIM,YR_2022_2023
+"CIM 420","Software Quality Assurance",PF03," Samuel Oonge",Y4S2,CIM,YR_2022_2023
+"CIM 422","Decision Making Systems",PF19,"Rose Kapukha",Y4S2,CIM,YR_2022_2023
+"CIS 104","Object Oriented Programming I",PF16,"Michael Wambwere",Y1S2,CIS,YR_2022_2023
+"CIS 106","Database Systems",PF19,"Rose Kapukha",Y1S2,CIS,YR_2022_2023
+"CIS 108","Systems Analysis and Design",PF18,"Yvonne Mwajuma",Y1S2,CIS,YR_2022_2023
+"CIS 120","Computer Based Information Systems Concepts",PF01," Titus Muhambe",Y1S2,CIS,YR_2022_2023
+"CIS 202","Transaction Processing Systems",PF11,"Charles Awuor",Y2S2,CIS,YR_2022_2023
+"CIS 204","Group Project",PF12,"Gabriel Oliko",Y2S2,CIS,YR_2022_2023
+"CIS 206","Insurance and Risk Management",PF11,"Charles Awuor",Y2S2,CIS,YR_2022_2023
+"CIS 208","Software Engineering",PF18,"Yvonne Mwajuma",Y2S2,CIS,YR_2022_2023
+"CIS 210","Human Computer Interaction",PF14,"Maurine Awuor",Y2S2,CIS,YR_2022_2023
+"CIS 212","Computer Networks Lab III",PF01," Titus Muhambe",Y2S2,CIS,YR_2022_2023
+"CIS 214","IS Audit and Control",PF16,"Michael Wambwere",Y2S2,CIS,YR_2022_2023
+"CIS 302","Computer Aided Art and Design",PF04,"Isaac Owino",Y3S2,CIS,YR_2022_2023
+"CIS 304","Database Administration",PF18,"Yvonne Mwajuma",Y3S2,CIS,YR_2022_2023
+"CIS 306","Group Project 2",PF03," Samuel Oonge",Y3S2,CIS,YR_2022_2023
+"CIS 308","Web Server Applications Development",PF07,"David Saka",Y3S2,CIS,YR_2022_2023
+"CIS 310","Mobile Devices and Wireless Computing",PF04,"Isaac Owino",Y3S2,CIS,YR_2022_2023
+"CIS 312","Business Ethics and Corporate Governance",PF60,"Thomas Ojijo",Y3S2,CIS,YR_2022_2023
+"CIS 314","Computer Graphics",PF15,"Bethuel Okelo",Y3S2,CIS,YR_2022_2023
+"CIS 402","Business Process Management",PF60,"Thomas Ojijo",Y4S2,CIS,YR_2022_2023
+"CIS 404","Information Systems Security and Controls",PF04,"Isaac Owino",Y4S2,CIS,YR_2022_2023
+"CIS 406","Strategic Management",PF18,"Yvonne Mwajuma",Y4S2,CIS,YR_2022_2023
+"CIS 408","IS Project Execution",PF52,"Roxanne Hawi",Y4S2,CIS,YR_2022_2023
+"CIS 412","Business Continuity and Disaster Recovery",PF08,"George Omuono",Y4S2,CIS,YR_2022_2023
+"CIS 414","Cloud Computing and Emerging Applications",PF08,"George Omuono",Y4S2,CIS,YR_2022_2023
+"CIS 416","Knowledge Based Systems",PF17,"Moses Wainaina",Y4S2,CIS,YR_2022_2023
+"CIT 104","Object Oriented Programming I",PF16,"Michael Wambwere",Y1S2,CIT,YR_2022_2023
+"CIT 106","Database Systems",PF19,"Rose Kapukha",Y1S2,CIT,YR_2022_2023
+"CIT 108","System Analysis and Design",PF18,"Yvonne Mwajuma",Y1S2,CIT,YR_2022_2023
+"CIT 118","Computer Communication Theory",PF01," Titus Muhambe",Y1S2,CIT,YR_2022_2023
+"CIT 120","Computer Organization and Architecture",PF08,"George Omuono",Y1S2,CIT,YR_2022_2023
+"CIT 202","Computer Aided Design",PF04,"Isaac Owino",Y2S2,CIT,YR_2022_2023
+"CIT 204","Networking Administration and Management",PF01," Titus Muhambe",Y2S2,CIT,YR_2022_2023
+"CIT 206","Research Methods and Technical Writing",PF16,"Michael Wambwere",Y2S2,CIT,YR_2022_2023
+"CIT 208","Group Project",PF52,"Roxanne Hawi",Y2S2,CIT,YR_2022_2023
+"CIT 210","Object Oriented Analysis and Design",PF18,"Yvonne Mwajuma",Y2S2,CIT,YR_2022_2023
+"CIT 212","Computer Networks lab II",PF01," Titus Muhambe",Y2S2,CIT,YR_2022_2023
+"CIT 214","Software Engineering",PF18,"Yvonne Mwajuma",Y2S2,CIT,YR_2022_2023
+"CIT 216","System Administration and Management",PF12,"Gabriel Oliko",Y2S2,CIT,YR_2022_2023
+"CIT 302","Human Computer Interaction",PF14,"Maurine Awuor",Y3S2,CIT,YR_2022_2023
+"CIT 304","Integrative programming and technologies",PF17,"Moses Wainaina",Y3S2,CIT,YR_2022_2023
+"CIT 306","Wireless and Mobile Computing",PF04,"Isaac Owino",Y3S2,CIT,YR_2022_2023
+"CIT 308","Web systems and Technologies II",PF07,"David Saka",Y3S2,CIT,YR_2022_2023
+"CIT 310","Information Assurance and Security II",PF03," Samuel Oonge",Y3S2,CIT,YR_2022_2023
+"CIT 312","Group Project (Project Implementation)",PF19,"Rose Kapukha",Y3S2,CIT,YR_2022_2023
+"CIT 314","Mobile Programming",PF13,"Rennish Mboya",Y3S2,CIT,YR_2022_2023
+"CIT 316","Computer Graphics",PF15,"Bethuel Okelo",Y3S2,CIT,YR_2022_2023
+"CIT 318","Artificial Intelligence",PF12,"Gabriel Oliko",Y3S2,CIT,YR_2022_2023
+"CIT 322","Computer Networks Lab 4",PF01," Titus Muhambe",Y3S2,CIT,YR_2022_2023
+"CIT 402","IT project II",PF10,"James Chamwama",Y4S2,CIT,YR_2022_2023
+"CIT 404","Cryptography and Information Security",PF03," Samuel Oonge",Y4S2,CIT,YR_2022_2023
+"CIT 406","Social and Professional Issues In IT",PF14,"Maurine Awuor",Y4S2,CIT,YR_2022_2023
+"CIT 408","IT and Development",PF17,"Moses Wainaina",Y4S2,CIT,YR_2022_2023
+"CIT 414","Cloud Computing and Emerging Applications",PF08,"George Omuono",Y4S2,CIT,YR_2022_2023
+"CIT 416","Network Security",PF16,"Michael Wambwere",Y4S2,CIT,YR_2022_2023
+"CIT 418","Authentication Protocols and Biometrics",PF03," Samuel Oonge",Y4S2,CIT,YR_2022_2023
