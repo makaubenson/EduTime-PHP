@@ -4,11 +4,7 @@
 
 ## Admin (Registrar's) Functions/Roles:
 
-<<<<<<< HEAD
-
-- # Add schools (Faculties)
-- Add schools/faculties
-  > > > > > > > 66264d27f4582e0d8b187d7b2a5b3fd63d1474bf
+- Add schools (Faculties)
 - Add departments
 - Add courses offered in different departments
 - Add units for each course
