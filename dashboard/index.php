@@ -21,7 +21,6 @@ $mail = $_SESSION['email'];
     <?php
 include '../assets/components/header.php';
 ?>
-
 </head>
 
 <body>
@@ -335,7 +334,6 @@ include '../assets/components/header.php';
                 <?php
 }
 ?>
-
             </div>
 
             <!-- ============================================================== -->
